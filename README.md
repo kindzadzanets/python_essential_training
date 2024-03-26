@@ -1,4 +1,4 @@
-# Python Essential Training
+# Python Essential Training!
 This is the repository for the LinkedIn Learning course Python Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Python Essential Training][lil-thumbnail-url] 
